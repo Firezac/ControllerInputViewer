@@ -30,7 +30,7 @@ In the Inspector menu you can set some presets for the use of the "ControllerInp
 > 
 > `Down Scaller Hud:` This option allows you to use an Input created in the Inputs list to reduce the size of the HUD.
 > 
-> `Hud Scale:`Pre-determines an initial value for the HUD.
+> `Hud Scale:` Pre-determines an initial value for the HUD.
 
 ## Credits
 Plugin created by: [Erick Firezac](https://twitter.com/Firezac)
